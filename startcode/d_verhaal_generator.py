@@ -1,7 +1,5 @@
-# Schrijf een programma dat een interactief verhaal creëert. Het programma vraagt de gebruiker om
-# - een naam
-# - een plaats
-# - een dier
+# Schrijf een programma dat een interactief verhaal creëert. 
+# Het programma vraagt de gebruiker om een naam, een plaats en een dier.
 #
 # Daarna genereert het programma een grappig verhaal waarin deze elementen worden gebruikt.
 #
